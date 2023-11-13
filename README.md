@@ -82,10 +82,14 @@ Click below to **learn more** in a video:
 
 3. This Is Left Content!
 
-```
-## 添加视频
-https://github.com/labring/sealos/assets/82700206/b1f8a25a-55cf-4d15-a47b-38cf7d507134
-```
-## 添加视频
+
+
+
+
 
 https://github.com/labring/sealos/assets/82700206/b1f8a25a-55cf-4d15-a47b-38cf7d507134
+
+```
+## 添加视频
+https://github.com/labring/sealos/assets/82700206/b1f8a25a-55cf-4d15-a47b-38cf7d507134
+```

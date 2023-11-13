@@ -36,10 +36,14 @@ flowchart TB
 
 ```
 Click below to **learn more** in a video:
+
 [![Screenshot](https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/ezgif-2-60f1b00403.gif)][youtube_demo]
+
 [youtube_demo]: https://www.youtube.com/watch?v=IPSbNdBmWKE
 ```
 
 Click below to **learn more** in a video:
+
 [![Screenshot](https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/ezgif-2-60f1b00403.gif)][youtube_demo]
+
 [youtube_demo]: https://www.youtube.com/watch?v=IPSbNdBmWKE

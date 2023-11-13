@@ -47,3 +47,38 @@ Click below to **learn more** in a video:
 [![Screenshot](https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/ezgif-2-60f1b00403.gif)][youtube_demo]
 
 [youtube_demo]: https://www.youtube.com/watch?v=IPSbNdBmWKE
+
+```
+## Test
+
+<img src="https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/ezgif-2-60f1b00403.gif" align="right" width="30%" />
+
+### 1.1
+
+1. This Is Left Content!
+
+### 1.2
+
+2. This Is Left Content!
+
+### 1.3
+
+3. This Is Left Content!
+```
+
+## Test
+
+<img src="https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/ezgif-2-60f1b00403.gif" align="right" width="50%" />
+
+### 1.1
+
+1. This Is Left Content!
+
+### 1.2
+
+2. This Is Left Content!
+
+### 1.3
+
+3. This Is Left Content!
+
